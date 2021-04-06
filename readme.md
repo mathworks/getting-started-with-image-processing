@@ -4,7 +4,9 @@ The Amazon Rainforest is the largest and most diverse rainforest in the world, w
 
 Unfortunately, the rainforest has been receding due to heavy deforestation, but recent conservation efforts have slowed that rate.  
 
-See how Image Processing Toolbox is used to analyze and track deforestation in the Amazon Rainforest to see the effects of those conservation efforts.
+See how Image Processing Toolbox is used to analyze and track deforestation in the Amazon Rainforest to see the effects of those conservation efforts in the "Getting Started with Image Processing" video:
+
+https://www.mathworks.com/videos/getting-started-with-image-processing-1617599799993.html?s_tid=srchtitle
 
 The deforestation.mlx Live Script processes multiple satellite images of the Jamanxim National Forest taken every 4 years from 2000 to 2016.
 
